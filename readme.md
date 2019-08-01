@@ -1,0 +1,1 @@
+For this assignment i had to solve nqueen using an algorithm. i used backtracking to allow me to see where previous queens have been placed.
